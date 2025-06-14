@@ -23,7 +23,8 @@ This project analyzes a dataset of over 890,000 cancer patients to uncover patte
 📥 The full interactive Power BI dashboard is available for download:
 
 Download zipped Power BI file:  
-[`📁 /
+[`📁 /[medical report challenge.zip](https://github.com/user-attachments/files/20737553/medical.report.challenge.zip)
+
 
 
 You can open this in **Power BI Desktop** to explore:
