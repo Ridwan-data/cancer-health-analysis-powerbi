@@ -17,9 +17,14 @@ This project analyzes a dataset of over 890,000 cancer patients to uncover patte
 
 ## 📁 Project Structure
 - `/data` – Cleaned data samples
-- `/visuals` – Dashboard screenshots and charts
-## The full interactive Power BI dashboard is available as a `.pbix` file here:  
-📁 [`/powerbi/cancer_analysis_dashboard.pbix`](./powerbi/cancer_analysis_dashboard.pbix)
+- `/visuals` – Dashboard screenshots and chart
+## 🖥️ Power BI Dashboard
+
+📥 The full interactive Power BI dashboard is available for download:
+
+Download zipped Power BI file:  
+[`📁 /
+
 
 You can open this in **Power BI Desktop** to explore:
 - The full data model  
@@ -46,7 +51,11 @@ Data storytelling goes beyond numbers — it's about people. This project helped
 
 ---
 
-## 📩 Contact
-If you'd like to collaborate or discuss data storytelling in healthcare, feel free to reach out!
+## 👤 Author
 
+**[Your Name]**  
+Aspiring Data Analyst | Power BI Enthusiast | Mathematics Student
+
+- 🔗 [LinkedIn]https://www.linkedin.com/in/ridwan-abdulazeez-4aa76629a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 🐦 [Twitter / X]https://x.com/officialarridoh?t=ZrPF8brG7ooW6m2KIwxiNQ&s=09
 
